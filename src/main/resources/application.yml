@@ -1,0 +1,15 @@
+server:
+  port: 8301
+spring:
+  # 配置文件上传大小限制
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+#minio
+minio:
+  endPoint: minio地址一般默认是9000端口
+  accessKey: 账号
+  secretKey: 密码
+  bucketName: 桶名
+  partSize: 104857600

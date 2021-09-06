@@ -1,0 +1,9 @@
+    //   ) )
+   ((         ___               __      ___      ___
+     \\     //   ) ) //   / / //  ) ) //   ) ) //___) )
+       ) ) //   / / //   / / //      //       //
+((___ / / ((___/ / ((___( ( //      ((____   ((____
+
+    ${spring.application.name}
+    Spring-Boot: ${spring-boot.version}
+    Port: ${server.port}
